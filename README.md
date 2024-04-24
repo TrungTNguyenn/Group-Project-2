@@ -18,7 +18,9 @@ for workers covered by Califronia Unemployment Insurance(UI) laws and workers un
  
 Our Dataset came from the Data.Gov. The dataset has 15 Columns and 914275 Rows. The different columns include Area Type, Area Name, Ownership, Industry Name, Time Period which are VARCHAR data types. Other columns names are Year, NAICS Level, NAICS Code, Establisments, Average Monthly Employment, 1st Month Emp, 2nd Month Emp, 3rd Month Emp, Total Wages(All workers), and Average Weekly Wages which are all INTEGER data types.
 # Questions
+Question 1 - What is the average week in California counties with over 1 million people?
 
+Question 2 - How do the average weekly wages compare in common industries when comparing the lowest/highest wage counties from the previous question?
 # Manipulations/ calculations performed
 
 # Analysis/Results
