@@ -27,6 +27,7 @@ Question 2 - How do the average weekly wages compare in common industries when c
 -The first manipulation required was changing the Aggregation on the "Average Weekly Wages" column from SUM to AVG. This was required because summing the data provided no real value when our goal was to see what a person's weekly wage in a county was expected to be.
 
 -Another manipulation that was required was Filtering. This dataset contained tons of data, as it was collected wage information on 1258 industries in every Californian county. To make it more meaningful and focused, our group decided to focus on counties that had over 1 million people, which narrowed the dataset down to 10 Californian counties. This resulted in data that was reflecting California's big population hubs. We also had to narrow down industries, and decided to focus on common, but distinct, industries that were present throughout the United States. This approach allows us to capture a broad representation of jobs while still identifying clear patterns and trends within each industry. This enabled us to create a picture that reflects a broad spectrum of job roles and economic activities. By selecting industries with widespread presence across the country, we ensured that our analysis would be relevant beyond California.
+
 -While minimal, the manipulations like changing the data type for Year to date and changing Year to discrete were also required.
 # Analysis/Results
 
