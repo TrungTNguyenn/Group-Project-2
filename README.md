@@ -33,6 +33,6 @@ Analyzing the average weekly wages across common industries in the lowest and hi
 -While minimal, the manipulations like changing the data type for Year to date and changing Year to discrete were also required.
 
 # Analysis/Results
-
+1) Based on our analysis and findings, the average weekly wage across all California counties exceeds $1,100. Spanning diverse economic landscapes, Santa Clara County boasts the highest average at $1,929, while Fresno County registers the lowest at $1,117. These discrepancies stem largely from the array of industries prevalent in each region, reflecting varying demands for professionals in fields such as technology, healthcare, law, engineering, real estate, and information systems. Counties with the highest wages tend to be mainly focused on technology and real estate, however, these industries aren't isolated to a few counties, they are just more prevalent in some than others.
 # Tableau Packaged Workbook
 [California Wage Stats.twbx.zip](https://github.com/TrungTNguyenn/Group-Project-2/files/15119250/California.Wage.Stats.twbx.zip)
