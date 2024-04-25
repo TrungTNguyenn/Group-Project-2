@@ -13,7 +13,7 @@
 [Trung Nguyen](https://github.com/TrungTNguyenn)
 
 # Data Set Description
-The Dataset that we decided to analyze is the Quarterly Census of Employement and Wages(QCEW) Program, which is the Federal-state cooperative program between the U.S. Department of Labor's Bureau of Labor Statistics(BLS) and the California EDD's Labor Market Information Division(LMID). The QCEW produces extensive organization of employement and wage information 
+The Dataset that we decided to analyze is the Quarterly Census of Employement and Wages (QCEW) Program, which is the Federal-state cooperative program between the U.S. Department of Labor's Bureau of Labor Statistics (BLS) and the California EDD's Labor Market Information Division (LMID). The QCEW produces extensive organization of employement and wage information 
 for workers covered by California Unemployment Insurance (UI) laws and workers under the Unemployment Compensation for Federal Employees (UCFE) program. 
  
 Our Dataset came from the Data.Gov. The dataset has 15 columns and 914275 rows. The different columns include Area Type, Area Name, Ownership, Industry Name, Time Period which are VARCHAR data types. Other columns names are Year, NAICS Level, NAICS Code, Establishments, Average Monthly Employment, 1st Month Emp, 2nd Month Emp, 3rd Month Emp, Total Wages(All workers), and Average Weekly Wages which are all INTEGER data types.
