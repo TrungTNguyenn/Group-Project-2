@@ -22,8 +22,8 @@ Our Dataset came from the Data.Gov. The dataset has 15 columns and 914275 rows. 
 Question 1 - What is the average weekly wage in California counties with over 1 million people?
 This question is important for understanding the livelihoods of individuals residing in populous California counties. It sheds light on income disparities, affordability, and overall economic well-being. This question directly ties to the dataset containing information on weekly wages of workers, broken down by industry and county, particularly focusing on counties with over 1 million people.
 
-
 Question 2 - How do the average weekly wages compare in common industries when comparing the lowest/highest wage counties from the previous question?
+Analyzing the average weekly wages across common industries in the lowest and highest wage counties provides insights into deiscrepancies within specific sectors, highlighting areas where interventions or policy measures may be necessary to promote equitable economic growth and opportunity across diverse communities.
 
 # Manipulations/Calculations performed
 -The first manipulation required was changing the Aggregation on the "Average Weekly Wages" column from SUM to AVG. This was required because summing the data provided no real value when our goal was to see what a person's weekly wage in a county was expected to be.
